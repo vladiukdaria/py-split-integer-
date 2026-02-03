@@ -1,5 +1,3 @@
-import pytest
-
 from app.main import split_integer
 
 
